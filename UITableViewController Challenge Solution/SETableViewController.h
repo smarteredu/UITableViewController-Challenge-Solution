@@ -1,5 +1,5 @@
 //
-//  SEViewController.h
+//  SETableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by JB on 5/13/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SEViewController : UIViewController
+@interface SETableViewController : UITableViewController
 
 @end
